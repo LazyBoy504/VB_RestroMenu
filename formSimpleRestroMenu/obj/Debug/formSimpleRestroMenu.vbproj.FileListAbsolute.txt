@@ -1,0 +1,24 @@
+C:\Users\admin\AppData\Local\Temporary Projects\formSimpleRestroMenu\bin\Debug\formSimpleRestroMenu.exe.config
+C:\Users\admin\AppData\Local\Temporary Projects\formSimpleRestroMenu\bin\Debug\formSimpleRestroMenu.exe
+C:\Users\admin\AppData\Local\Temporary Projects\formSimpleRestroMenu\bin\Debug\formSimpleRestroMenu.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\formSimpleRestroMenu\bin\Debug\formSimpleRestroMenu.xml
+C:\Users\admin\AppData\Local\Temporary Projects\formSimpleRestroMenu\obj\Debug\formSimpleRestroMenu.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\formSimpleRestroMenu\obj\Debug\formSimpleRestroMenu.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\formSimpleRestroMenu\obj\Debug\formSimpleRestroMenu.vbproj.GenerateResource.Cache
+C:\Users\admin\AppData\Local\Temporary Projects\formSimpleRestroMenu\obj\Debug\formSimpleRestroMenu.exe
+C:\Users\admin\AppData\Local\Temporary Projects\formSimpleRestroMenu\obj\Debug\formSimpleRestroMenu.xml
+C:\Users\admin\AppData\Local\Temporary Projects\formSimpleRestroMenu\obj\Debug\formSimpleRestroMenu.pdb
+D:\Educational\College Study\VP Codes\formSimpleRestroMenu\bin\Debug\formSimpleRestroMenu.exe.config
+D:\Educational\College Study\VP Codes\formSimpleRestroMenu\obj\Debug\formSimpleRestroMenu.exe
+D:\Educational\College Study\VP Codes\formSimpleRestroMenu\obj\Debug\formSimpleRestroMenu.xml
+D:\Educational\College Study\VP Codes\formSimpleRestroMenu\obj\Debug\formSimpleRestroMenu.pdb
+D:\Educational\College Study\VP Codes\formSimpleRestroMenu\obj\Debug\formSimpleRestroMenu.Form1.resources
+D:\Educational\College Study\VP Codes\formSimpleRestroMenu\obj\Debug\formSimpleRestroMenu.Resources.resources
+D:\Educational\College Study\VP Codes\formSimpleRestroMenu\obj\Debug\formSimpleRestroMenu.vbproj.GenerateResource.Cache
+D:\Educational\College Study\VP Codes\formSimpleRestroMenu\bin\Debug\formSimpleRestroMenu.exe
+D:\Educational\College Study\VP Codes\formSimpleRestroMenu\bin\Debug\formSimpleRestroMenu.pdb
+D:\Educational\College Study\VP Codes\formSimpleRestroMenu\bin\Debug\formSimpleRestroMenu.xml
+D:\#Educational\College Study\VP Codes\formSimpleRestroMenu\bin\Debug\formSimpleRestroMenu.exe.config
+D:\#Educational\College Study\VP Codes\formSimpleRestroMenu\obj\Debug\formSimpleRestroMenu.exe
+D:\#Educational\College Study\VP Codes\formSimpleRestroMenu\obj\Debug\formSimpleRestroMenu.xml
+D:\#Educational\College Study\VP Codes\formSimpleRestroMenu\obj\Debug\formSimpleRestroMenu.pdb
